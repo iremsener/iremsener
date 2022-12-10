@@ -11,8 +11,16 @@
 [instagram]: https://www.instagram.com/iremsener.is/
 [twitter]: https://twitter.com/iremseneris
 [linkedin]: https://www.linkedin.com/in/irem-sener-5305a423b/
+
+<br/><br/>
   
   ### Skills : Html, Css, Java, Python
+  
+  <br>
+  <details>
+  <summary>Most Used Languages</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+  </detais>
   
 
 
