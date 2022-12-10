@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Irem Sener 👋
+
+## Software Developer
+
+<iframe src="https://giphy.com/embed/bYOu4G8Ctz3UkuHVQe" align="right" width="480" height="270" frameBorder="0" class="giphy-embed" ></iframe><p><a href="https://giphy.com/gifs/afinitiai-customer-afiniti-pair-better-bYOu4G8Ctz3UkuHVQe">via GIPHY</a></p>
+<font color="yellow">
+  
+  ### Skills : Html, Css, Java, Python
+  
+</font>
+
 
 <!--
 **iremsener/iremsener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
