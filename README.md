@@ -2,11 +2,19 @@
 
 ## Software Developer
 
+### Reach out to me
 
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" align ="left" />][instagram]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" align ="left" />][twitter]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align ="left" />][linkedin]
+
+[instagram]: https://www.instagram.com/iremsener.is/
+[twitter]: https://twitter.com/iremseneris
+[linkedin]: https://www.linkedin.com/in/irem-sener-5305a423b/
   
   ### Skills : Html, Css, Java, Python
   
-</font>
+
 
 
 <!--
