@@ -17,10 +17,10 @@
   ### Skills : Html, Css, Java, Python
   
   <br>
-  <details>
+  
   <summary>Most Used Languages</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremsener&layout=compact">
-  </detais>
+  
   
 
 
