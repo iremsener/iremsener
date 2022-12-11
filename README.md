@@ -12,7 +12,7 @@
 [instagram]: https://www.instagram.com/iremsener.is/
 [twitter]: https://twitter.com/iremseneris
 [linkedin]: https://www.linkedin.com/in/irem-sener-5305a423b/
-[gmail]: iremsenerbusiness@gmail.com
+[gmail]: https://mail.google.com/mail/u/3
 <br>
 
 
