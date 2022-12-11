@@ -23,7 +23,7 @@
 
 
   
-  ### Skills : Html, Css, Java, Python
+  Skills : Html, Css, Java, Python
   
   <br>
   
