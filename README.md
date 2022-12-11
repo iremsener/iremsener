@@ -2,6 +2,10 @@
 
 ## Software Developer
 
+
+
+<br/>
+### How to reach me: iremsenerbusiness@gmail.com
 ### Reach out to me
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v8/icons/instagram.svg" align ="left" />][instagram]
@@ -11,9 +15,6 @@
 [instagram]: https://www.instagram.com/iremsener.is/
 [twitter]: https://twitter.com/iremseneris
 [linkedin]: https://www.linkedin.com/in/irem-sener-5305a423b/
-
-<br/><br/>
-### How to reach me: iremsenerbusiness@gmail.com
 
   
   ### Skills : Html, Css, Java, Python
