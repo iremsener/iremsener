@@ -24,7 +24,7 @@
 
 
   
-  Skills : Html, Css, Java, Python
+  Skills : Html, Css, R, Python
   
   <br>
   
