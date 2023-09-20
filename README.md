@@ -11,7 +11,7 @@
 
 [instagram]: https://www.instagram.com/iremsener.is/
 [twitter]: https://twitter.com/iremseneris
-[linkedin]: https://www.linkedin.com/in/irem-sener-5305a423b/
+[linkedin]: https://www.linkedin.com/in/irem-şener-550ba7291/
 
 
 
