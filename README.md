@@ -25,8 +25,7 @@ I am a passionate student and practitioner of quantum programming and I share my
   
   <br>
   
- <h4><summary>Most Used Languages</summary></h4> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremsener&layout=compact">
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremsener&layout=compact&theme=material-palenight)
   
   
 
