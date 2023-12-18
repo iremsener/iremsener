@@ -7,7 +7,7 @@ I am a passionate student and practitioner of quantum programming and I share my
 
 
  
-<br><br>
+<br>
 
   
  
