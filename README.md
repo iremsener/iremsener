@@ -2,8 +2,7 @@
 
 ## İrem Sener
 <hr>
-I am a passionate student and practitioner of quantum programming and I share my work on these topics on my GitHub account. I am dedicated to continuously expanding and deepening my knowledge and skills in these areas with great enthusiasm. I work on projects to understand the potential of quantum computers and implement quantum algorithms. My goal is to maximise my knowledge and experience in data science, artificial intelligence and quantum programming.
-
+I am a passionate student and practitioner of quantum programming and share my work on these topics on my GitHub account. I am dedicated to continuously expanding and deepening my knowledge and skills in these areas with great enthusiasm. I work on projects to understand the potential of quantum computers and implement quantum algorithms. My goal is to maximise my knowledge and experience in quantum computing and quantum programming.
 
 
  
