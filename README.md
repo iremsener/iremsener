@@ -1,4 +1,4 @@
-### Hi there, I'm Irem Sener 👋
+
 
 ## İrem Sener
 <hr>
