@@ -12,11 +12,22 @@ will guide me towards achieving this goal.
 <br><br>
 
   
-  Skills : Html, Css, Python, Qiskit
+ 
+
+  ### Languages and Tools:
+
+
+<img align="left" alt="Python" width="32px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+<img align="left" alt="bootstrap" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<img align="left" alt="Linux" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Qiskit" width="32px" src="https://raw.githubusercontent.com/AkashGutha/Qiskit-Snippets/master/assets/qiskit.gif" />
+
+<br>
+ 
   
   <br>
   
-  <summary>Most Used Languages</summary>
+ <h4><summary>Most Used Languages</summary></h4> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremsener&layout=compact">
   
   
