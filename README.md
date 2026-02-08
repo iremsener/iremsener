@@ -108,7 +108,8 @@ I am particularly interested in:
 ## Contact
 
 - YouTube: https://youtube.com/@iremseneris  
-- GitHub: https://github.com/iremsener  
+- Medium: https://medium.com/@iremseneris
+- Medium (Türkçe): https://medium.com/@iremsener.is 
 
 ---
 
